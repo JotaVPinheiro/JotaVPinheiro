@@ -55,21 +55,21 @@
 ### Some of my projects
 
 <span>
-  <a href="https://github.com/JotaVPinheiro/csgo-guns">
+  <a href="https://github.com/JotaVPinheiro/tg-quantosdiaspronatalbot">
     <img
       src="https://github-readme-stats.vercel.app/api/pin/?theme=gotham&border_color=333333&username=JotaVPinheiro&repo=tg-quantosdiaspronatalbot"
       alt="JotaVPinheiro/tg-quantosdiaspronatalbot"
       title="JotaVPinheiro/tg-quantosdiaspronatalbot"
     />
   </a>
-  <a href="https://github.com/JotaVPinheiro/tg-quantosdiaspronatalbot">
+  <a href="https://github.com/JotaVPinheiro/terminal-tic-tac-toe">
     <img
       src="https://github-readme-stats.vercel.app/api/pin/?theme=gotham&border_color=333333&username=JotaVPinheiro&repo=terminal-tic-tac-toe"
       alt="JotaVPinheiro/terminal-tic-tac-toe"
       title="JotaVPinheiro/terminal-tic-tac-toe"
     />
   </a>
-  <a href="https://github.com/JotaVPinheiro/terminal-tic-tac-toe">
+  <a href="https://github.com/JotaVPinheiro/csgo-guns">
     <img
       src="https://github-readme-stats.vercel.app/api/pin/?theme=gotham&border_color=333333&username=JotaVPinheiro&repo=csgo-guns"
       alt="JotaVPinheiro/csgo-guns"
