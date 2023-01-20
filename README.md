@@ -1,7 +1,7 @@
 # Hi, I'm João Vitor! 👋🏻👨🏻‍🦲
 
 <img
-  src="https://github-readme-stats.vercel.app/api?theme=gotham&border_color=333333&username=JotaVPinheiro&show_icons=true&counting_private=true"
+  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?theme=gotham&border_color=333333&username=JotaVPinheiro&show_icons=true&counting_private=true"
   align="right"
 />
 
@@ -57,28 +57,28 @@
 <span>
   <a href="https://github.com/JotaVPinheiro/tg-quantosdiaspronatalbot">
     <img
-      src="https://github-readme-stats.vercel.app/api/pin/?theme=gotham&border_color=333333&username=JotaVPinheiro&repo=tg-quantosdiaspronatalbot"
+      src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?theme=gotham&border_color=333333&username=JotaVPinheiro&repo=tg-quantosdiaspronatalbot"
       alt="JotaVPinheiro/tg-quantosdiaspronatalbot"
       title="JotaVPinheiro/tg-quantosdiaspronatalbot"
     />
   </a>
   <a href="https://github.com/JotaVPinheiro/terminal-tic-tac-toe">
     <img
-      src="https://github-readme-stats.vercel.app/api/pin/?theme=gotham&border_color=333333&username=JotaVPinheiro&repo=terminal-tic-tac-toe"
+      src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?theme=gotham&border_color=333333&username=JotaVPinheiro&repo=terminal-tic-tac-toe"
       alt="JotaVPinheiro/terminal-tic-tac-toe"
       title="JotaVPinheiro/terminal-tic-tac-toe"
     />
   </a>
   <a href="https://github.com/JotaVPinheiro/csgo-guns">
     <img
-      src="https://github-readme-stats.vercel.app/api/pin/?theme=gotham&border_color=333333&username=JotaVPinheiro&repo=csgo-guns"
+      src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?theme=gotham&border_color=333333&username=JotaVPinheiro&repo=csgo-guns"
       alt="JotaVPinheiro/csgo-guns"
       title="JotaVPinheiro/csgo-guns"
     />
   </a>
   <a href="https://github.com/JotaVPinheiro/hide-wpp-status-button">
     <img
-      src="https://github-readme-stats.vercel.app/api/pin/?theme=gotham&border_color=333333&username=JotaVPinheiro&repo=hide-wpp-status-button"
+      src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?theme=gotham&border_color=333333&username=JotaVPinheiro&repo=hide-wpp-status-button"
       alt="JotaVPinheiro/hide-wpp-status-button"
       title="JotaVPinheiro/hide-wpp-status-button"
     />
